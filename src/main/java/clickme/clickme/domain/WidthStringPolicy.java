@@ -32,6 +32,4 @@ public enum WidthStringPolicy {
     public int getWidth() {
         return width;
     }
-
-
 }
