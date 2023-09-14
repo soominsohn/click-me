@@ -3,12 +3,12 @@ package clickme.clickme.domain;
 import java.util.Arrays;
 
 public enum WidthStringPolicy {
-    ONE(1, 75),
-    TWO(2, 95),
-    THREE(3, 115),
-    FOUR(4, 135),
-    FIVE(5, 155),
-    SIX(6, 180);
+    ONE(1, 82),
+    TWO(2, 106),
+    THREE(3, 130),
+    FOUR(4, 154),
+    FIVE(5, 178),
+    SIX(6, 202);
 
 
     private final int digit;
